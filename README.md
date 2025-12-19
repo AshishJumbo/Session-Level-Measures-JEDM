@@ -3,7 +3,7 @@ This file contains the analysis files for the JEDM extension of the EDM-25 paper
 
 1. [Cognitive Tutor]
 2. [i-Ready]
-3. [ASSISTments] (https://ashishjumbo.github.io/Session-Level-Measures-JEDM/JEDM_ASSISTments.html)
+3. [ASSISTments](https://ashishjumbo.github.io/Session-Level-Measures-JEDM/JEDM_ASSISTments.html)
 
 
 
